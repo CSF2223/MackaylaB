@@ -34,14 +34,14 @@ body {
 }
 
 .heroImage {
-    padding: 3rem;
+    padding: 11rem;
 }
 
 
 .heroImage img {
     border-radius: 3rem;
     box-shadow: 10px 10px #000;
-    width: 35%;
+    width: 50%;
     height: 50%;
 }
 
@@ -194,6 +194,9 @@ footer {
     margin: 0;
     height: 80vh;
 }
+
+
+
 
 
 
