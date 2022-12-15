@@ -34,15 +34,15 @@ body {
 }
 
 .heroImage {
-    padding: 2rem;
+    padding: 3rem;
 }
 
 
 .heroImage img {
-    border-radius: 6rem;
+    border-radius: 3rem;
     box-shadow: 10px 10px #000;
-    width: 100%;
-    height: auto;
+    width: 35%;
+    height: 50%;
 }
 
 
@@ -55,7 +55,7 @@ body {
 
 .heroName {
     color: #CB1C8D;
-    font-size: 2.5rem;
+    font-size: 3rem;
     text-transform: uppercase;
 }
 
@@ -109,7 +109,7 @@ body {
     text-align: center;
     border: 1px solid #9277AC;
     border-radius: 1rem;
-    box-shadow: 10px 10px 5px #000;
+    box-shadow: 9px 9px 5px #000;
 }
 
 .projectCard img {
